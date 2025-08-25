@@ -138,7 +138,7 @@ Security audits and feedback are highly appreciated. Please open a private issue
 
 GhostKeys is positioned to redefine secret management in the era of decentralized computing.  
 If you are an investor, enterprise, or partner interested in early collaboration, reach out to us:  
-📧 **contact@ghostkeys.app**
+📧 **kostya.code@gmail.com**
 
 ---
 
