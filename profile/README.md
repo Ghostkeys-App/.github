@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="gk_logo.png" width="360" alt="GhostKeys Logo" />
+  <img src="../gk_logo.png" width="360" alt="GhostKeys Logo" />
 </p>
 
 <h1 align="center">GhostKeys</h1>
